@@ -3,14 +3,14 @@ const questions = [
   "Ce nu prea-ti place sa porti, desi trebuie",
   "Tu lucrezi la (incepe cu S)",
   "Daca vezi un retardat in chei mari, inseamna ca si-a luat",
-  "Ce e verde si o poti fuma",
+  "Ce e verde si o poti fuma?",
   "Cum este Cryterion (incepe cu N)",
-  "Clasa ta preferata in WoW",
+  "Clasa ta preferata in WoW este",
   "Un om cu 10 000 000 gold este",
   "Ce zodie esti?",
   "Unul din prenumele tale care nu prea imi place",
-  "Comunitatea pe care iti place sa boostezi",
-  "Pe cine simpuiesc eu in joc"
+  "Comunitatea in care iti place sa boostezi",
+  "Pe cine simpuiesc eu in joc?"
 ];
 const crosswordContainer = document.getElementById('crossword');
 const congrats = document.getElementById('message');
